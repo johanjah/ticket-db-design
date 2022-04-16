@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T08:46:49.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="ICwjUBzPU6lxyYSmnG0j" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:07:22.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="WvstZpPVAgJHckbfMw39" version="17.4.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="723" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -396,7 +396,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hiWgvwKncPJVcAewBRt_-114" value="payment_description char(100) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hiWgvwKncPJVcAewBRt_-112" vertex="1">
+        <mxCell id="hiWgvwKncPJVcAewBRt_-114" value="payment_description char(100) NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hiWgvwKncPJVcAewBRt_-112" vertex="1">
           <mxGeometry x="30" width="239.99999999999977" height="30" as="geometry">
             <mxRectangle width="239.99999999999977" height="30" as="alternateBounds" />
           </mxGeometry>
